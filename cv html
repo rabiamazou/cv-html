@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>CURRICULUM VITAE</title>
+</head>
+<body>
+	<table style="background:grey;" width="1270px">
+		<tr>
+		<td>
+			<img src="rabi.png" width="125 cm">
+		</td>
+		<td><h2>STEPHANE REYDERS</h2>
+		<p>Dévelopeur web full stack,devop freelance,plus de 20ans d'expérience</p>
+	</td></tr></table>
+<table>
+	<tr><h3 style="background:grey";>CONTACTEZ MOI POUR VOS PROJETS WEB</h3></tr>
+	<tr><td>Email:</td><td>stephanereyders@gmail.com</td></tr>
+		<tr><td>GSM:</td><td>00227 65432 875 54</td></tr>
+		<tr><td>Skype:</td> <td>Ajoutez moi sur skype</td></tr>
+		<tr><td>Adresse:</td><td>rue chateau 43<br>5564,warlin<br>belgique</td></tr>
+		<tr><td>Numéro d'entreprise:</td><td>86665 543</td></tr>
+	</tr></table>
+
+<h2 style="background:grey;" width="1270px">Compétences</h2>
+<h3>Technologie</h3><p>php,html5,css5,javascript,Apache,phyton,MySQL,Mariabatabase,Webservices,Git</p>
+<h3>FRAMEWORK</h3><p>Cake,jango,laravel,twitter</p>
+
+</body>
+</html>
